@@ -2,7 +2,7 @@ This project is part of workshop on Travis CI/CD with deploy to Github Pages.
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run:sdfg
 
 ### `npm start`
 
